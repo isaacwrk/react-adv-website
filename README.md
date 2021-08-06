@@ -19,7 +19,7 @@ and *run* the react project
     npm run start
     
 **Main Image**
-![](https://github.com/isaacwrk/js-exercises/blob/master/ex/mxp.png)
+![](https://github.com/isaacwrk/js-exercises/blob/master/ex/mmxp.png)
 
 **Responsive Main Image**
 
